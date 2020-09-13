@@ -46,4 +46,4 @@ Pronto, agora você pode testar a aplicação no dipositivo
 ## Tela do carrinho
 <img src="./screenshot/cart.png">
 
-Feito com ♥ by Andrelino Silva :wave:
+Feito com ♥ by Lorison Gilles :wave:
